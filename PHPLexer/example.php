@@ -5,4 +5,3 @@ function greet($name) {
 
 greet("World");
 ?>
-Text Editor
